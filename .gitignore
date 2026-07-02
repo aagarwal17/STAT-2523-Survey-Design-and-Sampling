@@ -1,0 +1,12 @@
+﻿*.class
+*.o
+*.exe
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+node_modules/
+.venv/
